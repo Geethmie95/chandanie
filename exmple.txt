@@ -1,0 +1,5 @@
+1. What is the function of 'git diff' in git?
+2. What is 'git status' is used for?
+3. What is the function of 'git checkout' in git?
+4. what is the function of 'git rm'?
+5. What is the function of 'git stash apply'?
